@@ -1,1 +1,3 @@
-COPY --from=composer/composer /usr/bin/composer /usr/bin/composer
+FROM php:7.4-apache
+
+COPY src/ /var/www/html/
