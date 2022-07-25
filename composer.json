@@ -1,13 +1,12 @@
 {
-    "license": "(LGPL-2.1-only or GPL-3.0-or-later)"
-}
-
-{
+    "name": "joseluis/test-gha",
+    "description": "Pruebas de build y deploy en github OK",
+    "type": "project",
+    "license": "MIT",
     "authors": [
         {
-            "name": "James Garcia",
-            "email": "jlgarciav1986@gmail.com",
-            "role": "Developer"
+            "name": "James Garcia"
         }
-    ]
+    ],
+    "require": {}
 }
